@@ -1,0 +1,152 @@
+{
+  "settings": {
+    "name": "Lovish Bhatia",
+    "title": "AI & Data Analyst",
+    "location": "India",
+    "summary": "Highly adaptive and detail-oriented professional with expertise in AI chatbot development and data analysis, committed to delivering high-quality results.",
+    "profileImage": "https://img.freepik.com/premium-vector/lb-initial-lettering-modern-luxury-monogram-logo-design_745848-113.jpg"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:lovishbhatia556@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "https://drive.google.com/file/d/1mHVv0YT7IS_vUdCwcWyqqu3HmWe-ifZA/view?usp=sharing"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "Project Management",
+          "Public Relations",
+          "Teamwork",
+          "Time Management",
+          "Leadership",
+          "Effective Communication",
+          "Critical Thinking",
+          "Python",
+          "Pandas",
+          "NumPy",
+          "Data Visualization",
+          "Statistical Analysis",
+          "Model Interpretation",
+          "Cloud Technologies"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "Workskills Pvt. Ltd.",
+          "position": "AI Chatbot Developer",
+          "period": "Present",
+          "description": "Engineered and deployed a conversational AI chatbot for the company's web application, resulting in a 24/7 self-service customer experience."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "Exploratory Data Analysis of Spotify Dataset",
+          "description": "Performed in-depth exploratory data analysis (EDA) on an 85,000-track Spotify dataset (2015-2025) to uncover trends in music popularity, audio feature behavior, genre patterns, and temporal shifts using Python, Pandas, NumPy, and visualization tools. Communicated insights through interactive visualizations, correlation heatmaps, and trend reports, enabling clear understanding of factors influencing song popularity and showcasing proficiency in data storytelling, statistical analysis, and model interpretation.",
+          "tags": [
+            "Python",
+            "Pandas",
+            "NumPy",
+            "Data Visualization",
+            "Statistical Analysis"
+          ],
+          "previewUrl": "#",
+          "repoUrl": "#"
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Vivekananda Global University, Jaipur",
+          "degree": "B.Tech. CSE (AI & DS)",
+          "period": "2023 - 2027"
+        },
+        {
+          "institution": "DAV, Tohanna",
+          "degree": "High School Certificate",
+          "period": "2023"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": [
+        {
+          "title": "NPLE (2024)",
+          "description": "Secured a winning position at the National Level Project Exhibition 2024-25 organized by Vivekananda Global University. Served as Team Member/Captain of 'Fantastic 4', contributing to project development, presentation, and execution. Successfully competed at a national platform, showcasing innovation, teamwork, and strong problem-solving skills."
+        },
+        {
+          "title": "Digital Campus 2.0 on Google Cloud (2024)",
+          "description": "Participated in Digital Campus 2.0 on Google Cloud, a #HackSprint event conducted in collaboration with Google Cloud and Vivekananda Global University. Gained exposure to cloud technologies, collaborative problem-solving, and hands-on digital campus innovation."
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "lovishbhatia556@gmail.com",
+      "phone": "+91 73558 09030",
+      "location": "India"
+    },
+    "social": {
+      "enabled": true,
+      "items": []
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Lovish Bhatia. All rights reserved."
+  }
+}
